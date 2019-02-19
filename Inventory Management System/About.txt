@@ -1,0 +1,7 @@
+I worked on this desktop application project in my 5th semester for my DBMS lab.
+It is a very simple Inventory Management Sytsem for a fictional sports and electronics goods store that allows an authorized user to perform various inventory
+management tasks.
+
+I've used the JavaFX toolkit to build the application. Communication between the application and database is achieved using the JDBC thin driver.
+
+NOTE: To login, use 'admin' for both username and password.

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="517.0" prefWidth="668.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ims.mainScreen.MainScreenController">
+   <children>
+      <Label layoutX="275.0" layoutY="14.0" text="IMS PANEL">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Button fx:id="vendorButton" layoutX="14.0" layoutY="85.0" mnemonicParsing="false" onAction="#loadVendorsScreen" prefHeight="55.0" prefWidth="138.0" text="Manage Vendors">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="orderButton" layoutX="14.0" layoutY="146.0" mnemonicParsing="false" onAction="#loadOrdersScreen" prefHeight="55.0" prefWidth="138.0" text="Manage Orders">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="14.0" layoutY="208.0" mnemonicParsing="false" onAction="#loadDeliveryScreen" prefHeight="55.0" prefWidth="138.0" text="Manage Deliveries " wrapText="true">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="14.0" layoutY="272.0" mnemonicParsing="false" onAction="#loadStockScreen" prefHeight="55.0" prefWidth="138.0" text="Manage Stock">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="14.0" layoutY="334.0" mnemonicParsing="false" onAction="#loadDepartmentsScreen" prefHeight="65.0" prefWidth="138.0" text="View Departments" wrapText="true">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <TextArea fx:id="status" editable="false" layoutX="200.0" layoutY="79.0" prefHeight="306.0" prefWidth="458.0" style="-fx-background-color: orange;" wrapText="true">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font></TextArea>
+      <Button fx:id="queryButton" layoutX="481.0" layoutY="401.0" mnemonicParsing="false" onAction="#openQueryBox" prefHeight="79.0" prefWidth="158.0" text="Query Box (Admin Only)" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font size="10.0" />
+         </font>
+      </Button>
+      <Label layoutX="10.0" layoutY="444.0" text="Logged In As:" />
+      <Label fx:id="loginInfo" layoutX="92.0" layoutY="444.0" />
+   </children>
+</AnchorPane>

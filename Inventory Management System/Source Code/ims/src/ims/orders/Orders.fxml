@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="427.0" prefWidth="632.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ims.orders.OrdersController">
+   <left>
+      <VBox prefHeight="400.0" prefWidth="139.0" BorderPane.alignment="CENTER">
+         <children>
+            <Region prefHeight="31.0" prefWidth="139.0" />
+            <Button fx:id="detailsButton" mnemonicParsing="false" onAction="#showOrderDetails" prefHeight="73.0" prefWidth="139.0" text="View /Update Order Items" wrapText="true">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin></Button>
+            <Button mnemonicParsing="false" onAction="#createOrder" prefHeight="70.0" prefWidth="139.0" text="Place New Order" wrapText="true" />
+            <Button mnemonicParsing="false" onAction="#deleteOrder" prefHeight="62.0" prefWidth="139.0" text="Delete Order" wrapText="true" />
+            <Button mnemonicParsing="false" onAction="#updateOrder" prefHeight="59.0" prefWidth="139.0" text="Update Vendor ID for Order" textAlignment="CENTER" wrapText="true" />
+            <Region prefHeight="16.0" prefWidth="139.0" />
+            <Button mnemonicParsing="false" onAction="#markAsCompleted" prefHeight="70.0" prefWidth="139.0" text="Mark Order as 'Completed'" textAlignment="CENTER" wrapText="true" />
+         </children>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+      </VBox>
+   </left>
+   <center>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="552.0" prefWidth="493.0">
+         <children>
+            <TableView fx:id="table" editable="true" prefHeight="374.0" prefWidth="485.0">
+              <columns>
+                <TableColumn fx:id="order_id" prefWidth="124.0" text="ORDER_ID" />
+                <TableColumn fx:id="time_of_order" prefWidth="145.0" text="TIME_OF_ORDER" />
+                  <TableColumn fx:id="vendor_id" prefWidth="109.0" text="VENDOR_ID" />
+                  <TableColumn fx:id="status" minWidth="0.0" prefWidth="106.0" text="STATUS" />
+              </columns>
+            </TableView>
+         </children>
+      </AnchorPane>
+   </center>
+   <top>
+      <AnchorPane prefHeight="47.0" prefWidth="632.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button mnemonicParsing="false" onAction="#backToPanel" prefHeight="52.0" prefWidth="68.0" style="-fx-background-color: orange;" text="&lt;--" />
+            <Button layoutX="480.0" layoutY="-9.0" mnemonicParsing="false" onAction="#refresh" prefHeight="61.0" prefWidth="152.0" style="-fx-background-color: green;" text="Refresh" />
+         </children>
+      </AnchorPane>
+   </top>
+</BorderPane>

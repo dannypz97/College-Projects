@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="427.0" prefWidth="732.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ims.delivery.Warehouse_deliveryPageController">
+   <top>
+      <AnchorPane prefHeight="60.0" prefWidth="672.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button layoutY="-2.0" mnemonicParsing="false" onAction="#backToPanel" prefHeight="66.0" prefWidth="104.0" style="-fx-background-color: orange;" text="&lt;--">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+            <Button layoutX="618.0" layoutY="-6.0" mnemonicParsing="false" onAction="#refresh" prefHeight="73.0" prefWidth="117.0" style="-fx-background-color: green;" text="Refresh" />
+         </children>
+      </AnchorPane>
+   </top>
+   <left>
+      <VBox prefHeight="318.0" prefWidth="118.0" BorderPane.alignment="CENTER">
+         <children>
+            <Region prefHeight="12.0" prefWidth="118.0" />
+            <Button mnemonicParsing="false" onAction="#viewDetails" prefHeight="55.0" prefWidth="118.0" text="View Items">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#moveToStock" prefHeight="56.0" prefWidth="118.0" text="Move to Stock" wrapText="true" />
+            <Region prefHeight="36.0" prefWidth="118.0" />
+            <Button mnemonicParsing="false" onAction="#addDelivery" prefHeight="53.0" prefWidth="118.0" style="-fx-background-color: magenta;" text="Add New Delivery" textAlignment="CENTER" wrapText="true">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <Button mnemonicParsing="false" onAction="#deleteDelivery" prefHeight="52.0" prefWidth="118.0" style="-fx-background-color: cyan;" text="Delete Delivery" wrapText="true">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <TableView fx:id="table" prefHeight="286.0" prefWidth="707.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="c1" prefWidth="119.0" text="DELIVERY_ID" />
+            <TableColumn fx:id="c3" minWidth="0.0" prefWidth="222.40001678466797" text="TIME_OF_DELIVERY" />
+            <TableColumn fx:id="c4" minWidth="-1.0" prefWidth="114.4000244140625" text="ORDER_REF_ID" />
+            <TableColumn fx:id="c5" prefWidth="157.59988403320312" text="STATUS" />
+        </columns>
+      </TableView>
+   </center>
+</BorderPane>

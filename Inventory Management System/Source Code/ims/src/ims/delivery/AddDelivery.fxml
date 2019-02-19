@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="154.0" prefWidth="367.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ims.delivery.AddDeliveryController">
+   <children>
+      <ChoiceBox fx:id="list" layoutX="160.0" layoutY="65.0" prefWidth="150.0" />
+      <Label layoutX="42.0" layoutY="69.0" prefHeight="17.0" prefWidth="109.0" text="Select Order_ID " />
+      <Button layoutX="151.0" layoutY="116.0" mnemonicParsing="false" onAction="#addDelivery" prefHeight="31.0" prefWidth="65.0" text="Add " />
+   </children>
+</AnchorPane>
