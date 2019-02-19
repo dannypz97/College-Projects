@@ -1,0 +1,3 @@
+This is my Computer Graphics Project titled "Round Robin Scheduling with OpenGL" which I worked on during my 6th semester.
+It simulates how the round robin CPU scheduling algorithm works on a set of processes.
+Project can be run directly from Executable/RoundRobinSimulation.exe.

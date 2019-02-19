@@ -1,0 +1,172 @@
+﻿  scr.c
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(112): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(117): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(102): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(121): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(132): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(143): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(161): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(175): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(138): warning C4101: 'swap': unreferenced local variable
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(137): warning C4101: 'j': unreferenced local variable
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(260): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(261): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(316): warning C4305: '-=': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(320): warning C4305: '+=': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(343): warning C4305: '-=': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(347): warning C4305: '+=': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(357): warning C4101: 'i': unreferenced local variable
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(361): warning C4101: 'winZ': unreferenced local variable
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(435): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(436): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(438): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(439): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(441): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(442): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(452): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(453): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(453): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(458): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(459): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(459): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(465): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(466): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(467): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(469): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(470): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(470): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(472): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(473): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(473): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(479): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(480): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(481): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(483): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(484): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(486): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(487): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(489): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(490): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(492): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(493): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(417): warning C4101: 'angle': unreferenced local variable
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(510): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(510): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(511): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(558): warning C4022: 'glutBitmapCharacter': pointer mismatch for actual parameter 1
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(567): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(568): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(569): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(570): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(571): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(572): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(582): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(586): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(586): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(591): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(591): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(593): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(595): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(597): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(597): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(599): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(602): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(602): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(603): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(603): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(603): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(604): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(604): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(604): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(605): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(605): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(605): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(606): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(606): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(609): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(609): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(609): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(611): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(611): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(611): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(613): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(613): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(613): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(633): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(633): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(633): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(634): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(634): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(637): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(637): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(637): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(640): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(640): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(640): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(643): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(643): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(646): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(646): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(646): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(654): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(655): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(655): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(660): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(660): warning C4305: 'function': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(663): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(665): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(665): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(668): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(668): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(671): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(671): warning C4024: 'draw_2d_text': different types for formal and actual parameter 5
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(585): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(589): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(632): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(636): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(639): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(642): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(645): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(664): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(667): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(670): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(685): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(691): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(694): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(696): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(697): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(706): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(680): warning C4101: 'j': unreferenced local variable
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(735): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(737): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(739): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(758): warning C4305: '+=': truncation from 'double' to 'float'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(803): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(773): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(775): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(810): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(719): warning C4101: 'str': unreferenced local variable
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(826): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+f:\edu\projects\vs2015\roundrobinsimulation\roundrobinsimulation\scr.c(830): warning C4305: 'function': truncation from 'double' to 'float'
