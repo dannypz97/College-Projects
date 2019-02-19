@@ -1,0 +1,5 @@
+I worked on this project with a friend during my 7th semester as part of my Web Technology Applications Lab.
+We created a Online Movie Database that allows users to register and leave behind reviews on some movies already in the database.
+
+Technologies used: HTML, CSS, Bootstrap, Javascript, jQuery, PHP
+
