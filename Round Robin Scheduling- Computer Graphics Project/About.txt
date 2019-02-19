@@ -1,3 +1,14 @@
 This is my Computer Graphics Project titled "Round Robin Scheduling with OpenGL" which I worked on during my 6th semester.
 It simulates how the round robin CPU scheduling algorithm works on a set of processes.
+
+NOTE: Please keep the magnitude of numbers keyed into input (especially the number of processes) on CLI small. 
+
 Project can be run directly from Executable/RoundRobinSimulation.exe.
+NOTE: freeglut.dll dependency is required in the same folder as the .exe to run the application.
+
+
+Known issues:-
+
+1)Entering anything other than simple integer numbers for inputs on the opening CLI causes issues. 
+
+2)On the opening application screen that says "Press any key to advance to the next screen", any key has to be pressed twice to continue. 
