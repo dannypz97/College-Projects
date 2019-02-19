@@ -1,0 +1,5 @@
+I was going through the Deep Learning Specialization course on Coursera. I thought implementing a simple Multi-layer neural network from scratch (using only NumPy)
+would help me understand what i was reading and watching much better.
+While the code itself is not too long, getting the backpropagation and gradient checking algorithms right was actually a pain as i ran into issues repeatedly.
+I tested the neural net by training it on some outputs of the sin(x) function while keeping x between 0 and 90. I then tested the network by comparing the actual 
+and predicted values of sin(x) manually, for all x between 0 and 90. 
