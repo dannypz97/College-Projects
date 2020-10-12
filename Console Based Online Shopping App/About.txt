@@ -1,7 +1,2 @@
 Our college had given us a simple task of creating a console-based Online Shopping Application in our 3rd semester as part of our Data Structures Course to demonstrate how various data structures
 work together in a system.
-The weird thing was they wanted us to make it a console application since we weren't expected to work with web technolgies just yet.
-
-Most of the class didn't even do it.
-
-I did put in a days effort to get something up because I like working on my projects :-).
